@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Downloads/Responsive CSS/Responsive CSS"
+		},
+		{
+			"path": "HTML Crash Course/CSS Crash Course"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Responsive CSS"
+	}
+}
